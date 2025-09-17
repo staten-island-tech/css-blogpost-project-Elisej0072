@@ -2,15 +2,12 @@ body{
   width: 600px;
   background-color:black ;
   font-family: "Montserrat", sans-serif;
+  text-align: center;
+  margin: 2vw;
+  padding: 1;
+  box-sizing: border-box;
 }
 
 
- 
 
-
-.stare {
-  text-align:center;
-  font-size: 10px;
-  color:white;
-}
 
